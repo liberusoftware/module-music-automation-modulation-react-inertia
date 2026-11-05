@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-automation-modulation-react-inertia",
+  "capabilityKey": "liberusoftware/music-automation-modulation",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-music-automation-modulation-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/music/nextjs/automation-modulation.md",
+  "presentationPlan": "projects/music/react/automation-modulation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
